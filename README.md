@@ -1,6 +1,6 @@
 ## Hi, i'm Roman 👋
 
-# Student Software Engineering<br/> 
+# .NET Specialist<br/> 
 
 
 # 💻 Tech Stack:
